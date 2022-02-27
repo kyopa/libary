@@ -1,0 +1,12 @@
+fieldset {
+    border: 0;
+}
+
+
+label {
+    display: block;
+}
+
+button {
+    display: block;
+}
